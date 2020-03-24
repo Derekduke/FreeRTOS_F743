@@ -1,2 +1,2 @@
-# FreeRTOS_F743
-port FreeRTOS to F743
+# FreeRTOS_H743
+port FreeRTOS to H743
